@@ -1,4 +1,4 @@
-# case_aluguel_Python
+# Exploração de Dados Imobiliários: Identificando as Melhores Oportunidades de Compra
 
 O objetivo deste case é identificar as melhores oportunidades de compra de imóveis com base em uma análise detalhada dos dados disponíveis. A meta é encontrar os melhores valores de casas, levando em consideração fatores relevantes que influenciam o mercado. Para isso, é necessário:
 
