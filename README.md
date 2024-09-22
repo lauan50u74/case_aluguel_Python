@@ -1,6 +1,6 @@
 # Exploração de Dados Imobiliários: Identificando as Melhores Oportunidades de Compra
 
-O objetivo deste case é identificar as melhores oportunidades de compra de imóveis com base em uma análise detalhada dos dados disponíveis. A meta é encontrar os melhores valores de casas, levando em consideração fatores relevantes que influenciam o mercado. Para isso, é necessário:
+O objetivo deste case é identificar as melhores oportunidades de compra de imóveis em Portugal e na Espanha com base em uma análise detalhada dos dados disponíveis. A meta era encontrar os melhores valores de casas, levando em consideração fatores relevantes que influenciam o mercado. Para isso, foi necessário:
 
 Determinar quais dados são mais relevantes para o problema, como localização, tamanho do imóvel, idade da construção, entre outros.
 Definir o setor ou o intervalo de preços mais adequado para análise (range de negócio).
